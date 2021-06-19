@@ -1,0 +1,1 @@
+Machine learning models require all input and output variables to be numeric. This means that if your data contains categorical data, you must encode it to numbers before you can fit and evaluate a model. ... Encoding is a required pre-processing step when working with categorical data for machine learning algorithms

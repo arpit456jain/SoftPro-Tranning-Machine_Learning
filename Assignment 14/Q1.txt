@@ -1,0 +1,19 @@
+Data preprocessing is a data mining technique which is used to transform the raw data in a useful and efficient format. Steps Involved in Data Preprocessing
+
+1.Acquire the dataset
+
+2.Import the libraries
+
+3.Import data set
+
+4.Extract the independent variables
+
+5.extract dependent variable
+
+6.handling missing values
+
+7.encoding categorical data
+
+8.Spliting the data set
+
+9.Feature Scaling
