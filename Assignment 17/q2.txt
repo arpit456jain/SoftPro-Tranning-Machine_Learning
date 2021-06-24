@@ -1,0 +1,1 @@
+Root node: Represents entire population. Splitting: Process of dividing sample. Decision Node: Node splits into further sub nodes. Leaf / Terminal Node: Last stage of node (output label) Pruning: Opposite to splitting (to reduce size of tree)
