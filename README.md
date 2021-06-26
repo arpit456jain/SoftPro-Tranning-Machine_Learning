@@ -130,3 +130,5 @@ GitHub will alert you that you can merge the two branches because there is no co
     <td align="center" thead="admin"><a href="https://github.com/arpit456jain"><img src="https://avatars.githubusercontent.com/arpit456jain" width="100px;" alt="admin"/><br /><sub><b>Arpit Jain</b></sub></a></td></tr>
   </tr>
   </table>
+<br>
+show some ❤️&nbsp; by giving the star to this repo
