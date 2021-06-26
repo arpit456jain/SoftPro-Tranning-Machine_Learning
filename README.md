@@ -29,7 +29,7 @@ To make your local copy of the repository follow the steps:
 - Type this command:
   
 ```bash
-$ git clone https://github.com/<your-github-username>/pixelvibe
+$ git clone https://github.com/<your-github-username>/SoftPro-Tranning-Machine_Learning
 ```
 
 
@@ -124,11 +124,6 @@ You should navigate to your forked repository, and press the "Compare & pull req
 
 GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the “Create pull request” button.
 
-## ❤️&nbsp; Project Admin
-<table>
-<tr>
-    <td align="center" thead="admin"><a href="https://github.com/arpit456jain"><img src="https://avatars.githubusercontent.com/arpit456jain" width="100px;" alt="admin"/><br /><sub><b>Arpit Jain</b></sub></a></td></tr>
-  </tr>
-  </table>
+
 <br>
 show some ❤️&nbsp; by giving the star to this repo
