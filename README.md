@@ -127,6 +127,6 @@ GitHub will alert you that you can merge the two branches because there is no co
 ## ❤️&nbsp; Project Admin
 <table>
 <tr>
-    <td align="center" thead="admin"><a href="https://github.com/arpit456jain"><img src="https://avatars.githubusercontent.com/u/54734002?s=400&u=d314b73ac39e031b00e0a907a7d0f13935cb541d&v=4" width="100px;" alt="admin"/><br /><sub><b>Arpit Jain</b></sub></a></td></tr>
+    <td align="center" thead="admin"><a href="https://github.com/arpit456jain"><img src="https://avatars.githubusercontent.com/arpit456jain" width="100px;" alt="admin"/><br /><sub><b>Arpit Jain</b></sub></a></td></tr>
   </tr>
   </table>
