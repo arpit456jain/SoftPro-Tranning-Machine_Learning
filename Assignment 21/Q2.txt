@@ -1,0 +1,3 @@
+
+cursor.execute("INSERT INTO `personal` (`id`, `name`, `contactno`, `emailaddress`) VALUES ('2', 'arpit', '12', '111'); ")
+mydb.commit()

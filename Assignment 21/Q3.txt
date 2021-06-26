@@ -1,0 +1,7 @@
+
+name = ['arpit','raj','manoj']
+contact=['12','32','33']
+email = ['a','b','c']
+for i in range(3):
+    cursor.execute("INSERT INTO `personal` (`id`, `name`, `contactno`, `emailaddress`) VALUES ('{}', '{}', '{}', '{}'); ".format(i+3,name[i],contact[i],email[i]))
+mydb.commit()

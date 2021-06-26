@@ -1,0 +1,6 @@
+insert into cust_info(101,Rajeev Singh , Lucknw , 12-dec-1012 , 05226565114);
+insert into cust_info(102,Jitendra Verma , Sitapur , 01-jan-2013 , 9838505980);
+insert into cust_info(103,Ravi Singh ,Baranbanki, 15-jan-2013 , 9977553344);
+insert into cust_info(104,Priya singh , Lucknow , 16-jan-2013 , 77547754434);
+insert into cust_info(105,Brijish Mishra , Barabanki , 16-feb-2013 , 87389700899);
+insert into cust_info(106,Amit Singh , Lucknow , 18-march-2013 , 0548-2202798);

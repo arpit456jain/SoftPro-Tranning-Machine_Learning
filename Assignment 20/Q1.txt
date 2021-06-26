@@ -1,0 +1,8 @@
+create table cust_info
+(
+Cust_ID int primary key, 
+Cust_Name varchar(20),
+Cust_Address varchar(100),
+Cust_connect_date varchar(10),
+Contact_No varchar(15)
+);
